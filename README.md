@@ -1,5 +1,5 @@
 <h1>Exemplo de Formulário</h1>
-<p>Um portfólio mostrando um pouco sobre mim (Enzo Noda), habilidades em tecnologias front-end, projetos publicados e contatos.</p>
+<p>Formulario feito em react com validações e tratamento de erros.</p>
 
 <h2>Tecnologias </h2>
 
